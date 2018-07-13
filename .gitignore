@@ -1,4 +1,4 @@
-settings/secret_keys.json
+secret_keys.json
 __pycache__/*
 *~
 *pyc
