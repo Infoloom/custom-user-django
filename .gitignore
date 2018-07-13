@@ -1,0 +1,6 @@
+settings/secret_keys.json
+__pycache__/*
+*~
+*pyc
+base_static/*
+.idea/*
